@@ -4,7 +4,7 @@ theme: just-the-docs
 
 title: Vikis Doc
 theme: just-the-docs
-
+remote_theme: pmarsceill/just-the-docs
 url: https://Vikimania.github.io/doc
 
 Template Repository: https://github.com/Vikimania/doc
