@@ -7,4 +7,5 @@ theme: just-the-docs
 
 url: https://Vikimania.github.io/doc
 
-Template Repository: https://github.com/Vikimania/doc
+aux_links: # remove if you don't want this link to appear on your pages
+  Template Repository: Template Repository: https://github.com/Vikimania/doc
